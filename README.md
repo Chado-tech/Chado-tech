@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Alassane+Rachad;Full-stack+Developer;Laravel+%7C+October+CMS+%7C+Vue+%7C+React" alt="typing" />
 
-**AL RACHAD** · Freelance · Parakou, Bénin 🇧🇯
+**RACHAD** · Freelance · Parakou, Bénin 🇧🇯
 Disponible pour missions freelance et sous-traitance (France / Europe / Afrique)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alrachad.com-38BDF8?style=for-the-badge)](https://alrachad.com)
@@ -10,6 +10,18 @@ Disponible pour missions freelance et sous-traitance (France / Europe / Afrique)
 ![Vues](https://komarev.com/ghpvc/?username=Chado-tech&color=38BDF8&style=flat-square)
 
 </div>
+
+## 🚀 Ce que je fais
+- Sites e-commerce et plateformes web sur mesure (Laravel + Inertia/Vue ou React)
+- Sites et boutiques sous **October CMS** : plugins sur mesure, Builder, back-office client
+- Apps mobiles (React Native / Expo)
+- Intégration de paiements locaux (FeexPay, FedaPay,etc)
+- Déploiement et sécurisation de VPS (Ubuntu, Nginx, Fail2ban, UFW)
+- Automatisation (n8n, IA)
+
+## 📌 Projets
+- 🏠 [ImmoBJ](https://immobj.com) : plateforme immobilière pour le Bénin
+- 🍽️ [Restaurant](https://github.com/Chado-tech/Restaurant) : site e-commerce de restaurant
 
 ## 🛠️ Stack
 <p>
@@ -19,26 +31,12 @@ Disponible pour missions freelance et sous-traitance (France / Europe / Afrique)
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
-## 🚀 Ce que je fais
-- Sites e-commerce et plateformes web sur mesure (Laravel + Inertia/Vue ou React)
-- Sites et boutiques sous **October CMS** : plugins sur mesure, Builder, back-office client
-- Apps mobiles (React Native / Expo)
-- Intégration de paiements locaux (FeexPay, FedaPay, etc)
-- Déploiement et sécurisation de VPS (Ubuntu, Nginx, Fail2ban, UFW)
-- Automatisation (n8n, IA)
-
-## 📌 Projets
-- 🏠 [ImmoBJ](https://immobj.com) : plateforme immobilière pour le Bénin
-- 🍽️ [Restaurant](https://github.com/Chado-tech/Restaurant) : site e-commerce de restaurant
-
-## 📊 Stats
+## 📊 Activité
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chado-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chado-tech&layout=compact&theme=tokyonight" />
-
 <img src="https://streak-stats.demolab.com/?user=Chado-tech&theme=tokyonight" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chado-tech&theme=tokyo-night&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Chado-tech/Chado-tech/output/github-snake-dark.svg" />
 
 </div>
