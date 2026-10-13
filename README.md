@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Alassane+Rachad;Full-stack+Developer;Laravel+%7C+Vue+%7C+React+%7C+Expo" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Alassane+Rachad;Full-stack+Developer;Laravel+%7C+October+CMS+%7C+Vue+%7C+React" alt="typing" />
 
-**Al Rachad** · Freelance · Parakou, Bénin 🇧🇯
+**AL RACHAD** · Freelance · Parakou, Bénin 🇧🇯
 Disponible pour missions freelance et sous-traitance (France / Europe / Afrique)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alrachad.com-38BDF8?style=for-the-badge)](https://alrachad.com)
@@ -13,13 +13,17 @@ Disponible pour missions freelance et sous-traitance (France / Europe / Afrique)
 
 ## 🛠️ Stack
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,php,vue,react,ts,js,tailwind,mysql,nginx,linux,docker,git" />
+<img src="https://skillicons.dev/icons?i=laravel,php,vue,react,ts,js,tailwind,mysql,nginx,linux,docker,git" /><br/>
+<img src="https://img.shields.io/badge/October_CMS-DB6A27?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
 ## 🚀 Ce que je fais
-- Plateformes web et e-commerce sur mesure (Laravel + Inertia/Vue ou React)
+- Sites e-commerce et plateformes web sur mesure (Laravel + Inertia/Vue ou React)
+- Sites et boutiques sous **October CMS** : plugins sur mesure, Builder, back-office client
 - Apps mobiles (React Native / Expo)
-- Intégration de paiements locaux (FeexPay, FedaPay, etc)
+- Intégration de paiements locaux (FeexPay, FedaPay)
 - Déploiement et sécurisation de VPS (Ubuntu, Nginx, Fail2ban, UFW)
 - Automatisation (n8n, IA)
 
