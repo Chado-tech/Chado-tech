@@ -23,7 +23,7 @@ Disponible pour missions freelance et sous-traitance (France / Europe / Afrique)
 - Sites e-commerce et plateformes web sur mesure (Laravel + Inertia/Vue ou React)
 - Sites et boutiques sous **October CMS** : plugins sur mesure, Builder, back-office client
 - Apps mobiles (React Native / Expo)
-- Intégration de paiements locaux (FeexPay, FedaPay)
+- Intégration de paiements locaux (FeexPay, FedaPay, etc)
 - Déploiement et sécurisation de VPS (Ubuntu, Nginx, Fail2ban, UFW)
 - Automatisation (n8n, IA)
 
